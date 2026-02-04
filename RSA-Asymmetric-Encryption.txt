@@ -17,5 +17,5 @@ C = M^e mod n                M = C^d mod n
 
 Encrypt M = 2:
 1. Calculate: 2^7 = _128_
-2. Calculate: _128_ mod 33 = _29_
+2. Calculate: _128_ mod 33 = __
 3. Ciphertext C = _29_
